@@ -12,8 +12,6 @@ detected photons per pulse and down to 9 detected photons per pixel, it achieves
 object classes with 90% physical masking. Our results highlight PI-MAE as a viable hardware accelerator for significantly
 improving the performance of single-photon imaging systems in photon-starving applications.
 
-# Repo Contents
-
 ## Code
 
 - Software for beam steering is in `MEMs-Code/` folder.
@@ -29,6 +27,15 @@ improving the performance of single-photon imaging systems in photon-starving ap
 - Software for PI-MAE is in `PI-MAE-Model\` folder.
 
 ## Data
+
+- Raw single photon counts are in `Raw-Photon-Counts\` folder.
+  - Letters:
+    - 75% physically masked letters are in `LETTERS-75\` folder.
+    - 90% physically masked letters are in `LETTERS-90\` folder.
+  - Numbers:
+    - 75% physically masked numbers are in `NUMBERS-75\` folder.
+    - 90% physically masked numbers are in `NUMBERS-90\` folder.
+- Processed single photon counts are in `Photon-Counts-as-Images\` folder.
 
 ## Results
 
