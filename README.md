@@ -19,6 +19,10 @@ detected photons per pulse and down to 9 detected photons per pixel, it achieves
 object classes with 90% physical masking. Our results highlight PI-MAE as a viable hardware accelerator for significantly
 improving the performance of single-photon imaging systems in photon-starving applications.
 
+## Authors
+
+Luke McEvoy, Daniel Tafone, Yong Meng Sua, Yuping Huang
+
 ## Code
 
 - Software for beam steering is in `MEMs-Code/` folder.
