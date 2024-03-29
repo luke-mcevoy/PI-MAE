@@ -61,7 +61,7 @@ PI-MAE was developed using Tensorflow (version 2) with Python (version 3.10) on 
     - `PI-MAE-noise75mask.html` is PI-MAE code to reconstruct 75% noise mask scans
     - `PI-MAE-noise90mask.html` is PI-MAE code to reconstruct 90% noise mask scans
 
-## Data
+## [Data](https://github.com/luke-mcevoy/PI-MAE/tree/main/Data)
 
 - Raw single photon counts are in `Raw-Photon-Counts\` folder.
   - Letters:
@@ -76,7 +76,7 @@ PI-MAE was developed using Tensorflow (version 2) with Python (version 3.10) on 
   - 75% noise masked numbers are in `NOISE-MASK\75mask-noise\` folder.
   - 90% noise masked numbers are in `NOISE-MASK\90mask-noise\` folder.
 
-## Results
+## [Results](https://github.com/luke-mcevoy/PI-MAE/tree/main/Results)
 
 - `physicalmask75\` has PI-MAE reconstructions of 75% physically masked LiDAR scans.
 - `physicalmask90\` has PI-MAE reconstructions of 90% physically masked LiDAR scans.
