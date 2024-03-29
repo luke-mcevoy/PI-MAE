@@ -32,7 +32,7 @@ improving the performance of single-photon imaging systems in photon-starving ap
 
 ## Results
 
-- 'noisemask75\' has the PI-MAE reconstruction results of PI-MAE on 75% noise masked LiDAR scans.
-- 'noisemask90\' has the PI-MAE reconstruction results of PI-MAE on 90% noise masked LiDAR scans.
-- 'physicalmask75\' has the PI-MAE reconstruction results of PI-MAE on 75% physically masked LiDAR scans.
-- 'physicalmask90\' has the PI-MAE reconstruction results of PI-MAE on 90% physically masked LiDAR scans.
+- `noisemask75\` has the PI-MAE reconstruction results of PI-MAE on 75% noise masked LiDAR scans.
+- `noisemask90\` has the PI-MAE reconstruction results of PI-MAE on 90% noise masked LiDAR scans.
+- `physicalmask75\` has the PI-MAE reconstruction results of PI-MAE on 75% physically masked LiDAR scans.
+- `physicalmask90\` has the PI-MAE reconstruction results of PI-MAE on 90% physically masked LiDAR scans.
