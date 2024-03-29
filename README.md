@@ -12,7 +12,9 @@ detected photons per pulse and down to 9 detected photons per pixel, it achieves
 object classes with 90% physical masking. Our results highlight PI-MAE as a viable hardware accelerator for significantly
 improving the performance of single-photon imaging systems in photon-starving applications.
 
-# Code
+# Repo Contents
+
+## Code
 
 - Software for beam steering is in `MEMs-Code/` folder.
   - `Direct.py` controls the LiDAR system, given a scanning pattern as input
@@ -25,3 +27,12 @@ improving the performance of single-photon imaging systems in photon-starving ap
   - `Noise-Mask-PI-MAE.ipynb` creates noise masks is
 
 - Software for PI-MAE is in `PI-MAE-Model\` folder.
+
+## Data
+
+## Results
+
+- 'noisemask75\' has the PI-MAE reconstruction results of PI-MAE on 75% noise masked LiDAR scans.
+- 'noisemask90\' has the PI-MAE reconstruction results of PI-MAE on 90% noise masked LiDAR scans.
+- 'physicalmask75\' has the PI-MAE reconstruction results of PI-MAE on 75% physically masked LiDAR scans.
+- 'physicalmask90\' has the PI-MAE reconstruction results of PI-MAE on 90% physically masked LiDAR scans.
