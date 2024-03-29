@@ -14,12 +14,12 @@ improving the performance of single-photon imaging systems in photon-starving ap
 
 # Code
 
-Software for beam steering is in `MEMs-Code/` folder. Here `Direct.py` controls the LiDAR system, given a scanning pattern as input. `Scan-Pattern-Creation.ipynb` creates randomly masked scanniong patterns. `Direct-Scripts-Executed-for-PI-MAE.py` automates the LiDAR data acquisition process, as it executes all the scanning patterns in `Direct-scripts.txt`.
+- Software for beam steering is in `MEMs-Code/` folder. Here `Direct.py` controls the LiDAR system, given a scanning pattern as input. `Scan-Pattern-Creation.ipynb` creates randomly masked scanniong patterns. `Direct-Scripts-Executed-for-PI-MAE.py` automates the LiDAR data acquisition process, as it executes all the scanning patterns in `Direct-scripts.txt`.
 
-`Photon-Counts-To-Images.ipynb` turns raw photon counts into images.
+- `Photon-Counts-To-Images.ipynb` turns raw photon counts into images.
 
-`What-is-Average-Photon-Count.ipynb` computes photon statistics on raw photon counts.
+- `What-is-Average-Photon-Count.ipynb` computes photon statistics on raw photon counts.
 
-`Noise-Mask-PI-MAE.ipynb` creates noise masks is
+- `Noise-Mask-PI-MAE.ipynb` creates noise masks is
 
-Software for PI-MAE is under `` folder.
+- Software for PI-MAE is under `` folder.
