@@ -29,7 +29,7 @@ Luke McEvoy, Daniel Tafone, Yong Meng Sua, Yuping Huang
 
 PI-MAE was developed using Tensorflow (version 2) with Python (version 3.10) on an AWS SageMaker instance with one NVIDIA T4 16GB GPU.
 
-## Code
+## [Code](https://github.com/luke-mcevoy/PI-MAE/tree/main/Code)
 
 - Software for beam steering is in `MEMs-Code/` folder.
   - `Direct.py` controls the LiDAR system, given a scanning pattern as input
