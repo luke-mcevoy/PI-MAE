@@ -35,11 +35,15 @@ improving the performance of single-photon imaging systems in photon-starving ap
   - Numbers:
     - 75% physically masked numbers are in `NUMBERS-75\` folder.
     - 90% physically masked numbers are in `NUMBERS-90\` folder.
-- Processed single photon counts are in `Photon-Counts-as-Images\` folder.
+- Raw single photon counts processed into images are in `Photon-Counts-as-Images\PI-MAE-Scans\` folder.
+  - 75% physically masked letters are in `PHYSICAL-MASK\75mask-physical\` folder.
+  - 90% physically masked letters are in `PHYSICAL-MASK\90mask-physical\` folder.
+  - 75% noise masked numbers are in `NOISE-MASK\75mask-noise\` folder.
+  - 90% noise masked numbers are in `NOISE-MASK\90mask-noise\` folder.
 
 ## Results
 
-- `noisemask75\` has PI-MAE reconstructions of 75% noise masked LiDAR scans.
-- `noisemask90\` has PI-MAE reconstructions of 90% noise masked LiDAR scans.
 - `physicalmask75\` has PI-MAE reconstructions of 75% physically masked LiDAR scans.
 - `physicalmask90\` has PI-MAE reconstructions of 90% physically masked LiDAR scans.
+- `noisemask75\` has PI-MAE reconstructions of 75% noise masked LiDAR scans.
+- `noisemask90\` has PI-MAE reconstructions of 90% noise masked LiDAR scans.
