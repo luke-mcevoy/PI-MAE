@@ -29,6 +29,10 @@ Luke McEvoy, Daniel Tafone, Yong Meng Sua, Yuping Huang
 
 PI-MAE was developed using [Tensorflow (version 2)](https://www.tensorflow.org/install) with [Python (version 3.10)](https://www.python.org/downloads/release/python-3100/) on an [AWS SageMaker](https://aws.amazon.com/sagemaker/) instance with one NVIDIA T4 16GB GPU.
 
+## Testing & Training Sets
+
+Trained on MNIST, tested on sparse LiDAR scans
+
 ## [Code](https://github.com/luke-mcevoy/PI-MAE/tree/main/Code)
 
 - Software for beam steering is in `MEMs-Code/` folder.
