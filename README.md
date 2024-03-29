@@ -1,5 +1,12 @@
 # PI-MAE
 
+![Physical Mask](https://github.com/luke-mcevoy/PI-MAE/blob/main/Figures/With-White-Background/PI-MAE-Physical-Mask-Data-Acquisition.png)
+
+![PIMAE vs MAE](https://github.com/luke-mcevoy/PI-MAE/blob/main/Figures/With-White-Background/PI-MAE-vs-MAE-Architecture.png
+)
+
+![PIMAE Results](https://github.com/luke-mcevoy/PI-MAE/blob/main/Figures/With-White-Background/PI-MAE-Physical-Mask-Results.png)
+
 ## Abstract
 
 Imaging technology based on detecting individual photons has seen tremendous progress in recent years, with broad
