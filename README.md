@@ -37,6 +37,13 @@ Luke McEvoy, Daniel Tafone, Yong Meng Sua, Yuping Huang
 
 - Software for PI-MAE is in `PI-MAE-Model\` folder.
 - `PI-MAE-Scans\` folder has data for you to run PI-MAE
+  - `NOISE-MASK\` folder has noise mask data, which is used by PI-MAE for reconstruction of 75% and 90% noise mask data
+  - `PHYSICAL-MASK\` folder has physical mask data, which is used by PI-MAE for reconstruction of 75% and 90% physical mask data
+  - `Results-From-Running-Model\` holds the results from running PI-MAE yourself
+    - `75-Physical-Results` holds teh results from 75% physical mask reconstruction
+    - `90-Physical-Results` holds the results from 90% physical mask reconstruction
+    - `75-Noise-Results` holds the results from 75% noise mask reconstruction
+    - `90-Noise-Results` holds the results from 90% noise mask reconstruction
 - Notebooks:
   - `PI-MAE-physical75mask.ipynb` is PI-MAE code to reconstruct 75% physical mask scans
   - `PI-MAE-physical90mask.ipynb` is PI-MAE code to reconstruct 90% physical mask scans
