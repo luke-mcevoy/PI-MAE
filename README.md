@@ -32,13 +32,13 @@ PI-MAE was developed using [Tensorflow (version 2)](https://www.tensorflow.org/i
 Packages used:
 - numpy == 1.26.4
 - pandas == 1.5.3
-- tensorflow_addons
+- tensorflow == 2.15.0
+- tensorflow_addons == 0.23.0
+- cv2 = 4.9.0
+- matplotlib == 3.8.3
+- imageio.v2 == 2.34.0
 - random
-- tensorflow
 - os
-- cv2
-- matplotlib.pyplot
-- imageio.v2
 
 ## [Code](https://github.com/luke-mcevoy/PI-MAE/tree/main/Code)
 
