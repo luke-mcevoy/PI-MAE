@@ -36,6 +36,12 @@ Luke McEvoy, Daniel Tafone, Yong Meng Sua, Yuping Huang
   - `Noise-Mask-PI-MAE.ipynb` creates noise masks is
 
 - Software for PI-MAE is in `PI-MAE-Model\` folder.
+- `PI-MAE-Scans\` folder has data for you to run PI-MAE
+- Notebooks:
+  - `PI-MAE-physical75mask.ipynb` is PI-MAE code to reconstruct 75% physical mask scans
+  - `PI-MAE-physical90mask.ipynb` is PI-MAE code to reconstruct 90% physical mask scans
+  - `PI-MAE-noise75mask.ipynb` is PI-MAE code to reconstruct 75% noise mask scans
+  - `PI-MAE-noise90mask.ipynb` is PI-MAE code to reconstruct 90% noise mask scans
 
 ## Data
 
