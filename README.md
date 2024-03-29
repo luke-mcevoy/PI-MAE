@@ -37,8 +37,6 @@ Packages used:
 - cv2 == 4.9.0
 - matplotlib == 3.8.3
 - imageio.v2 == 2.34.0
-- random
-- os
 
 ## [Code](https://github.com/luke-mcevoy/PI-MAE/tree/main/Code)
 
