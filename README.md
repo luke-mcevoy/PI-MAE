@@ -27,7 +27,7 @@ Luke McEvoy, Daniel Tafone, Yong Meng Sua, Yuping Huang
 
 ## Development Enviornment
 
-PI-MAE was developed using Tensorflow (version 2) with Python (version 3.10) on an AWS SageMaker instance with one NVIDIA T4 16GB GPU.
+PI-MAE was developed using Tensorflow (version 2) with Python (version 3.10) on an [AWS SageMaker](https://aws.amazon.com/sagemaker/) instance with one NVIDIA T4 16GB GPU.
 
 ## [Code](https://github.com/luke-mcevoy/PI-MAE/tree/main/Code)
 
