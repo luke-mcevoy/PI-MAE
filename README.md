@@ -19,10 +19,9 @@ improving the performance of single-photon imaging systems in photon-starving ap
   - `Scan-Pattern-Creation.ipynb` creates randomly masked scanniong patterns
   - `Direct-Scripts-Executed-for-PI-MAE.py` automates the LiDAR data acquisition process, as it executes all the scanning patterns in `Direct-scripts.txt`.
 
-- `Photon-Counts-To-Images.ipynb` turns raw photon counts into images.
+- Software for processing raw photon counts is in `Data-Processing\` folder.
+  - `Photon-Counts-To-Images.ipynb` turns raw photon counts into images.
+  - `What-is-Average-Photon-Count.ipynb` computes photon statistics on raw photon counts.
+  - `Noise-Mask-PI-MAE.ipynb` creates noise masks is
 
-- `What-is-Average-Photon-Count.ipynb` computes photon statistics on raw photon counts.
-
-- `Noise-Mask-PI-MAE.ipynb` creates noise masks is
-
-- Software for PI-MAE is under `` folder.
+- Software for PI-MAE is in `PI-MAE-Model\` folder.
