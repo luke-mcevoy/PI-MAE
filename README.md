@@ -31,7 +31,7 @@ PI-MAE was developed using [Tensorflow (version 2)](https://www.tensorflow.org/i
 
 ## Testing & Training Sets
 
-Trained on MNIST, tested on sparse LiDAR scans
+Trained on MNIST, tested on sparse single photon LiDAR scans
 
 ## [Code](https://github.com/luke-mcevoy/PI-MAE/tree/main/Code)
 
