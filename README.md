@@ -1,4 +1,4 @@
-# PI-MAE
+# Physics Informed Masked Autoencoder (PI-MAE)
 
 ![Physical Mask](https://github.com/luke-mcevoy/PI-MAE/blob/main/Figures/With-White-Background/PI-MAE-Physical-Mask-Data-Acquisition.png)
 
