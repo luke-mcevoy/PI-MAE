@@ -40,7 +40,7 @@ Luke McEvoy, Daniel Tafone, Yong Meng Sua, Yuping Huang
     - `NOISE-MASK\` folder has noise mask scans, which is used by PI-MAE for reconstruction of 75% and 90% noise mask data
     - `PHYSICAL-MASK\` folder has physical mask scans, which is used by PI-MAE for reconstruction of 75% and 90% physical mask data
     - `Results-From-Running-Model\` holds the results from running PI-MAE yourself
-      - `75-Physical-Results` holds teh results from 75% physical mask reconstruction
+      - `75-Physical-Results` holds the results from 75% physical mask reconstruction
       - `90-Physical-Results` holds the results from 90% physical mask reconstruction
       - `75-Noise-Results` holds the results from 75% noise mask reconstruction
       - `90-Noise-Results` holds the results from 90% noise mask reconstruction
@@ -49,6 +49,11 @@ Luke McEvoy, Daniel Tafone, Yong Meng Sua, Yuping Huang
     - `PI-MAE-physical90mask.ipynb` is PI-MAE code to reconstruct 90% physical mask scans
     - `PI-MAE-noise75mask.ipynb` is PI-MAE code to reconstruct 75% noise mask scans
     - `PI-MAE-noise90mask.ipynb` is PI-MAE code to reconstruct 90% noise mask scans
+  - HTML:
+    - `PI-MAE-physical75mask.html` is PI-MAE code to reconstruct 75% physical mask scans
+    - `PI-MAE-physical90mask.html` is PI-MAE code to reconstruct 90% physical mask scans
+    - `PI-MAE-noise75mask.html` is PI-MAE code to reconstruct 75% noise mask scans
+    - `PI-MAE-noise90mask.html` is PI-MAE code to reconstruct 90% noise mask scans
 
 ## Data
 
