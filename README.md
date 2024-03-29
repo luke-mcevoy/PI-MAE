@@ -27,7 +27,7 @@ Luke McEvoy, Daniel Tafone, Yong Meng Sua, Yuping Huang
 
 ## Development Enviornment
 
-PI-MAE was developed using [Tensorflow (version 2)](https://www.tensorflow.org/install) with [Python (version 3.10)](https://www.python.org/downloads/release/python-3100/) on an [AWS SageMaker](https://aws.amazon.com/sagemaker/) instance with one NVIDIA T4 16GB GPU.
+PI-MAE was developed using [Tensorflow (version 2)](https://www.tensorflow.org/install) with [Python (version 3.10)](https://www.python.org/downloads/release/python-3100/) in [Anaconda Jupyter Lab](https://github.com/jupyterlab/jupyterlab) on an [AWS SageMaker](https://aws.amazon.com/sagemaker/) instance with one NVIDIA T4 16GB GPU.
 
 Packages used:
 - numpy == 1.26.4
