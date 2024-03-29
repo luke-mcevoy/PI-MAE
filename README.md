@@ -25,6 +25,10 @@ improving the performance of single-photon imaging systems in photon-starving ap
 
 Luke McEvoy, Daniel Tafone, Yong Meng Sua, Yuping Huang
 
+## Development Enviornment
+
+PI-MAE was developed using Tensorflow (version 2) with Python (version 3.10) on an AWS SageMaker instance with one NVIDIA T4 16GB GPU. Training PI-MAE from scratch takes ~45 minutes.
+
 ## Code
 
 - Software for beam steering is in `MEMs-Code/` folder.
