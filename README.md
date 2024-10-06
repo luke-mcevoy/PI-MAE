@@ -1,6 +1,6 @@
 # Physics Informed Masked Autoencoder (PI-MAE)
 
-[Physics-Informed Masked Autoencoder for Active Sparse Imaging (Paper Under Review)](https://www.researchsquare.com/article/rs-4339493/v1)
+[Physics-Informed Masked Autoencoder for Active Sparse Imaging (Scientific Reports)](https://www.nature.com/articles/s41598-024-71095-x)
 
 ![Physical Mask](https://github.com/luke-mcevoy/PI-MAE/blob/main/Figures/With-White-Background/PI-MAE-Physical-Mask-Data-Acquisition.png)
 
